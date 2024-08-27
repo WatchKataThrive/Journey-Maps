@@ -13,7 +13,7 @@ Journey maps are typically used during the Define stage of the design process. A
 Below are two journey maps that correspond with the Transit App Personas from the [User Persona repository](https://github.com/WatchKataThrive/User-Personas). These examples demonstrate how a user's experience can be mapped out from awareness to retention, highlighting key touchpoints, emotions, and opportunities for improving the overall user experience.
 
 ### Journey Map 1
-<img src="./TRANSIT%20JM.PNG" alt="Journey Map 1" width="444px">
+<img src="./TRANSIT%20JM.PNG" alt="Journey Map 1" width="700px">
 
 ### Journey Map 2
-<img src="./TRANSIT%20JM2.PNG" alt="Journey Map 2" width="444px">
+<img src="./TRANSIT%20JM2.PNG" alt="Journey Map 2" width="700px">

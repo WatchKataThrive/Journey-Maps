@@ -9,6 +9,13 @@ The purpose of journey maps is to gain a deeper understanding of the user's pers
 ## When to Use Journey Maps
 Journey maps are typically used during the Define stage of the design process. After conducting user research and gathering insights, journey maps help designers define the key problems that need to be solved. They are also valuable in the Ideate and Prototype stages, as they provide a reference for generating ideas and testing solutions that align with the user's journey.
 
+### Difference Between Journey Maps and Empathy Maps
+Journey maps and empathy maps are two distinct yet related tools in UX/UI design:
+
+- **Journey Map**: This tool visualizes the user's experience over time as they interact with a product or service. It maps out the different stages a user goes through, highlighting their actions, emotions, and touchpoints. The Journey Map helps designers understand the overall user experience, identify pain points, and uncover opportunities for improvement.
+
+- **Empathy Map**: This tool focuses on understanding the user's emotions, thoughts, behaviors, and needs at a specific point in their journey. It usually consists of four quadrants: what the user says, thinks, does, and feels. The Empathy Map helps designers gain deeper insights into the user's perspective, fostering empathy and guiding design decisions.
+
 ## Example Journey Maps
 Below are two journey maps that correspond with the Transit App Personas from the [User Persona repository](https://github.com/WatchKataThrive/User-Personas). These examples demonstrate how a user's experience can be mapped out from awareness to retention, highlighting key touchpoints, emotions, and opportunities for improving the overall user experience.
 
